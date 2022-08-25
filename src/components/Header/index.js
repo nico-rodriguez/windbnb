@@ -149,8 +149,10 @@ export default function Header({
                   className='input-list__option'
                   key={location}
                 >
-                  <span className='material-symbols-outlined'>pin_drop</span>
-                  {location}
+                  <span className='option__content'>
+                    <span className='material-symbols-outlined'>pin_drop</span>
+                    {location}
+                  </span>
                 </div>
               ))}
             </div>

@@ -81,6 +81,7 @@
   padding: 15px 27px;
   box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
   border-radius: 16px;
+  cursor: pointer;
 }
 
 .input-menu__label {
@@ -156,11 +157,16 @@
 */
 .input-list__option {
   display: flex;
+}
+
+.option__content {
+  display: flex;
   align-items: center;
   font-size: 1.4rem;
   line-height: 1.8rem;
   color: #4f4f4f;
   margin: 18px 0;
+  cursor: pointer;
 }
 
 /*
@@ -199,6 +205,7 @@
   border: 1px solid #828282;
   border-radius: 4px;
   padding: 10px 7px;
+  cursor: pointer;
 }
 
 .input-item__controls span {
@@ -220,6 +227,7 @@
   display: flex;
   align-items: center;
   margin: 0 auto;
+  cursor: pointer;
 }
 
 .form__button .material-symbols-outlined {
