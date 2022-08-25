@@ -1,0 +1,17 @@
+.footer {
+  padding: 26px;
+  font-weight: 500;
+  font-size: 1.4rem;
+  line-height: 1.7rem;
+  text-align: center;
+  color: #828282;
+}
+
+.footer--inactive {
+  background-color: rgba(79, 79, 79, 0.4);
+  filter: grayscale(0.6);
+}
+
+.footer__link {
+  font-weight: 700;
+}
