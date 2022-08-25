@@ -6,7 +6,7 @@ export default function Footer({ isInactive }) {
       created by{' '}
       <a
         className='footer__link'
-        href='https://github.com/nico-rodriguez/front-end-developer-devChallenges/tree/master/windbnb'
+        href='https://github.com/nico-rodriguez/windbnb'
       >
         nico-rodriguez
       </a>{' '}
