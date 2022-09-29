@@ -16,35 +16,37 @@
   </h3>
 </div>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/74cfc32a-6147-455e-9400-62059eabdf1c/deploy-status)](https://app.netlify.com/sites/windbnb-321353/deploys)
+
 ## Overview
 
 Visit [https://windbnb-321353.netlify.app/](https://windbnb-321353.netlify.app/).
 
 ### Desktop
 
-![screenshot](./screenshot-desktop-initial.png)
+![screenshot](./doc-images/screenshot-desktop-initial.png)
 
 Filter by location
 
-![screenshot](./screenshot-desktop-filter-location.png)
+![screenshot](./doc-images/screenshot-desktop-filter-location.png)
 
 Filter by number of guests
 
-![screenshot](./screenshot-desktop-filter-guests.png)
+![screenshot](./doc-images/screenshot-desktop-filter-guests.png)
 
 Display the search results
 
-![screenshot](./screenshot-desktop-search-results.png)
+![screenshot](./doc-images/screenshot-desktop-search-results.png)
 
 ### Mobile
 
 Filter by number of guests
 
-![screenshot](./screenshot-mobile-filter-guests.png)
+![screenshot](./doc-images/screenshot-mobile-filter-guests.png)
 
 Display the search results
 
-![screenshot](./screenshot-mobile-search-results.png)
+![screenshot](./doc-images/screenshot-mobile-search-results.png)
 
 ### Built With
 
